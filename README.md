@@ -1,5 +1,5 @@
-## Devansh Singh Rathore (24BAI10436)
-# Software choosen MYSQL
+# Devansh Singh Rathore (24BAI10436)
+## Software choosen MYSQL
 
 
 🐧 Linux MySQL Audit Toolkit
